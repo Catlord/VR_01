@@ -1,0 +1,18 @@
+##########################
+# Unreal generated files #
+##########################
+SP_Textures/
+Content/
+Intermediate/
+Saved/
+Substance/
+
+######################
+# VS generated files #
+######################
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.mp4
+
